@@ -445,7 +445,7 @@ Passionate Full Stack Developer focused on building scalable web applications an
 
 * GitHub: https://github.com/sharmasatyam121104-devloper
 * LinkedIn: https://www.linkedin.com/in/satyam-sharma-dev04
-* Portfolio: hhttps://satyam-sharma.netlify.app
+* Portfolio: https://satyam-sharma.netlify.app
 
 ---
 
