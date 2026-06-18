@@ -7,7 +7,7 @@ A complete step-by-step guide to deploying and manually scaling web applications
 ## 🎥 Demo Video
 
 📺 **Watch Full Demo:**
-[Demo Video Link](YOUR_VIDEO_LINK_HERE)
+https://www.linkedin.com/posts/satyam-sharma-dev04_aws-cloudcomputing-devops-activity-7473330088227491840-DYju/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFxj6hEB50LR_f-l72IGHHEJs5C0yUwSBaY
 
 ---
 
