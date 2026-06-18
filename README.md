@@ -405,10 +405,9 @@ To avoid AWS charges, delete resources in this order:
 2. Target Group
 3. EC2 Instances
 4. AMIs
-5. Snapshots
-6. Security Groups
-7. Route 53 Records
-8. Hosted Zone
+5. Security Groups
+6. Route 53 Records
+7. Hosted Zone
 
 ---
 
